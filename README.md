@@ -25,5 +25,5 @@ In March 2019 we [reported](https://www.bbc.co.uk/news/uk-england-47613726) that
 
 ## Related repos
 
-* [Parents fined £24m for children's truancy and term time holidays](https://github.com/BBC-Data-Unit/school-holiday-fines)
+* [Parents fined £24m for children's truancy and term time holidays](https://github.com/BBC-Data-Unit/school-holiday-fines) - March 2018
 * [Term-time holidays: Where most children were absent](https://github.com/BBC-Data-Unit/school-absence) - March 2017
