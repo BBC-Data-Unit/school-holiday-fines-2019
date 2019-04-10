@@ -4,6 +4,10 @@
 
 In March 2019 we [reported](https://www.bbc.co.uk/news/uk-england-47613726) that the number of fines issued to parents in England for taking children on term time holidays had almost doubled in a year.
 
+We took the number of fines issued for unauthorised holidays and divided this by the total number of pupils registered, multiplying that by 1,000 to get the number of fines per 1,000 pupils.
+
+We concentrated on this rather than 'parental responsibility' penalties in general because holidays were by far the main reason for a penalty notice being issued.
+
 ## Get the data
 
 * [Pupil absence in schools in England: 2017 to 2018](https://www.gov.uk/government/statistics/pupil-absence-in-schools-in-england-2017-to-2018)
